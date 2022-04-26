@@ -1,0 +1,25 @@
+gamemode: Game mode
+settings: Einstellungen
+language: Sprache
+music: Musik
+difficulty: Schwierigkeit
+classic_desc: Reise so weit wie moglich, ohne zu sterben!
+shooter_desc: Schiesst so viele Meteore wie moglich!
+saver_desc: Rette so viele Astronauten wie moglich!
+yes: Ja
+no: Nein
+resume: Forsetzen
+restart: Neu Starten
+quit: Abgehen
+score: Score
+ammo: Munition
+hp: Gesundheit
+distance: Entfernung
+normal: Normal
+hard: Schwer
+german: Deutsch
+spanish: Espanol
+english: English
+presstoplay: Druck eine Taste zu spielen
+playagain: Nocheinmal spielen
+gameover: Game Over

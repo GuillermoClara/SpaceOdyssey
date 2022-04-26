@@ -1,0 +1,25 @@
+gamemode: Gamemodes
+settings: Settings
+language: Language
+music: Music
+difficulty: Difficulty
+classic_desc: Travel as far as possible without dying!
+shooter_desc: Shoot as many meteors as possible!
+saver_desc: Save as many astronauts possible!
+yes: Yes
+no: No
+resume: Resume
+restart: Restart
+quit: Quit
+score: Score
+ammo: Ammo
+hp: Health
+distance: Distance
+normal: Normal
+hard: Hard
+german: Deutsch
+spanish: Espanol
+english: English
+presstoplay: Press any key to play
+playagain: Play again
+gameover: Game Over

@@ -1,0 +1,6 @@
+classic_normal_max: 0
+classic_hard_max: 0
+shooter_normal_max: 0
+shooter_hard_max: 0
+astrosaver_normal_max: 0
+astrosaver_hard_max: 0

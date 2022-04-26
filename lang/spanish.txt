@@ -1,0 +1,25 @@
+gamemode: Modos de juego
+settings: Ajustes
+language: Idioma
+music: Musica
+difficulty: Dificultad
+classic_desc: Vuela lo mas lejos posible sin morir!
+shooter_desc: Destruye la mayor cantidad de meteoritos posible!
+saver_desc: Salva a los demas astronautas!
+yes: Si
+no: No
+resume: Resumir
+restart: Reiniciar
+quit: Salir
+score: Puntaje
+ammo: Municion
+hp: Vida
+distance: Distancia
+normal: Normal
+hard: Dificil
+german: Deutsch
+spanish: Espanol
+english: English
+presstoplay: Aprieta cualquier boton para jugar
+playagain: Jugar de nuevo
+gameover: Has muerto
