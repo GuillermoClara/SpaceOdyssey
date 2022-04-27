@@ -197,7 +197,7 @@ def main_menu():
         pygame.display.update()
         clock.tick(60)
 # Main code
-
+# If played with .py file, remove this line
 pygame.mixer.pre_init(44100, 16, 2, 4096)
 pygame.init()
 
